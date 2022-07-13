@@ -1,15 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "0cVeoZ6wMo3K7FGyAfT1DqH+54sIuFis2Po8Nsc8+bOuO9YTKJrnUGWaN45fXP6QD/jyFu5lJuQj95b+OiWylg==",
+  "dgSpecHash": "lOCMehTAdTnq+h0ASw8PkcGv16J6SmdyfPJK6/pyhRdh8WpiczfS5ozzMTvNElc9xa50afm4RN+0+vJ+YixJCQ==",
   "success": true,
-  "projectFilePath": "/Users/saltdev/Documents/GitHub/dnfs-summer-22-lab-CanineCloud/canineCloud.Api/canineCloud.Api.csproj",
+  "projectFilePath": "/Users/saltdev/Documents/salt-labs/canine-cloud/canineCloud.Api/canineCloud.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/saltdev/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.7/microsoft.aspnetcore.authentication.jwtbearer.6.0.7.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/saltdev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "/Users/saltdev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/saltdev/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/Users/saltdev/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/Users/saltdev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/saltdev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/saltdev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/saltdev/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
